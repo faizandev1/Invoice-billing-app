@@ -1,0 +1,14 @@
+{
+  "company_name": "BEST4JUNIORS",
+  "company_address": "Boxcomplex Weert\\n21B128,Hoolstraat 21\\n6006 SL Weert",
+  "company_phone": "\u002B31 6 18928041",
+  "company_email": "support@best4juniors.nl",
+  "company_website": "https://best4juniors.nl",
+  "company_kvk": "91427541",
+  "company_vat": "NL865654360B01",
+  "logo_path": "F:\\download folder 11-12-2025\\ChatGPT_Image_Sep_25__2025__04_25_01_PM-removebg-preview (1).png",
+  "invoice_prefix": "B4J-",
+  "currency": "EUR",
+  "tax_rate": 21,
+  "output_folder": "facturen"
+}

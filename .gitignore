@@ -1,0 +1,11 @@
+# Build outputs
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Logs
+*.log
